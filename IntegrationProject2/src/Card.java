@@ -9,6 +9,8 @@ public class Card {
 		
 	}
 	public int getNumber() {
+		
+		//git trial
 		return number;
 	
 	}
