@@ -8,8 +8,8 @@ public class ChickFiletMenu {
 		
 		System.out.println("What would you like to order?");
 		System.out.println("1. Chicken Sandwich");
-		System.out.println();
-		System.out.println();
+		System.out.println("2. Spicy Chicken Sandwich");
+		System.out.println("3. Chicken Strips");
 
 	}
 }
