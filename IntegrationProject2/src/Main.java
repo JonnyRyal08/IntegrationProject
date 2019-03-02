@@ -56,7 +56,7 @@ public class Main {
 		total = (price + price * tip);
 		System.out.println("Yout total is: " + "$" + total);
 		in.close();
-		double num1 = 5;
+		double num1 = 5;// double 
 		double num2 = 10;
 		// this is a call, in the parentheses is an argument, the call takes on the
 		// value of the return
