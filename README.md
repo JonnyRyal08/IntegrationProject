@@ -4,8 +4,8 @@
 	Add a description of the program as a comment at top//Main.java at top
 	Add a list and description of Java built-in data types within the user interface or in comments//Main.java line 9-18
 	Add a greeting / introduction to the user// added in Main line 37
-	Use a boolean variable with an appropriate name (singular noun, lowerCamelCase)
-	Use an int variable with an appropriate name (singular noun, lowerCamelCase)//Main.java
+	Use a boolean variable with an appropriate name (singular noun, lowerCamelCase)//Loops.java line 8
+	Use an int variable with an appropriate name (singular noun, lowerCamelCase)//LexiBet.java line 12
 	Use an double variable with an appropriate name (singular noun, lowerCamelCase)
 	Use a String object with an appropriate name (singular noun, lowerCamelCase)
 	Define (in English) the term "variable" as it relates to computer programming in a comment or the user interface
