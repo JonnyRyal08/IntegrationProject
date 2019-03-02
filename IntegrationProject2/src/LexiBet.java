@@ -9,7 +9,7 @@ public class LexiBet {
         String largest = " ";
         String s = "welcomtojava";
         
-        int k = 3;
+        int k = 3;//int value
         
         for(int i = 0; i <= s.length()-k; i++) { //header with arguments
         	String lexicograph = s.substring(i, i+k);
