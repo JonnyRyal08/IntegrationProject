@@ -1,20 +1,22 @@
+//Jonathan Robertson
+
 import java.util.Scanner;
 
 public class LexiBet {
 	
-    public static void main (String[] args) {
+    public static void main (String[] args) { //if else constructs
         String smallest = " ";
         String largest = " ";
         String s = "welcomtojava";
         
         int k = 3;
         
-        for(int i = 0; i <= s.length()-k; i++) {
+        for(int i = 0; i <= s.length()-k; i++) { //header with arguments
         	String lexicograph = s.substring(i, i+k);
-        	if(i==0) {
+        	if(i==0) {//i compares first position of int i to numerical value
         		smallest = lexicograph;
         	}
-        	if(lexicograph.compareTo(largest)>0) {
+        	if(lexicograph.compareTo(largest)>0) {//compareTo compares strings
         		largest = lexicograph;
         	}
         	else if (lexicograph.compareTo(smallest)<0) {
